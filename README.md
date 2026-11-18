@@ -12,7 +12,11 @@
 *   **Инструменты:** Excel (продвинутый), Power BI, Tableau.
 
 ## 📂 Мои проекты
-
+*   [Инвестиционный проект «Private GYM»](https://github.com/emma-petrosyan407/private-gym-financial) — финансовая модель, расчет NPV/IRR, оценка рисков.
+*   [Анализ компаний «Татнефть» и «UTair»](https://github.com/emma-petrosyan407/financial-analysis-tatneft-utair--) — комплексный финансовый анализ, мультипликаторы, факторный анализ.
+*   [Концепция ИИ-ассистента](https://github.com/emma-petrosyan407/ai-asset-management-concept) — разработка метрик (AUM, NPS) и MVP для УК.
+## 📜 Сертификаты
+*   [SQL Workshop. Basics (Stepik, 2026)](ССЫЛКА) — **Оценка: 99% (With distinction)**
 
 ## 📫 Контакты
 *   **Telegram:** @em_ma7
